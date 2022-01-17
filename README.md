@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ntritran999
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning front-end development.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in messing up my computer :)
+- 🌱 I’m currently having fun doing so :V
+- 💞️ I’m looking to collaborate on everything that is fun.
 - 📫 How to reach me ... : ntritran999@gmail.com
 
 <!---
