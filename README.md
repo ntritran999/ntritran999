@@ -72,5 +72,5 @@
 
 ## My GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ntritran999&show_icons=true&count_private=true)](https://github.com/ntritran999)
+[![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=ntritran999&show_icons=true&count_private=true&theme=solarized-light)](https://github.com/ntritran999)
 
